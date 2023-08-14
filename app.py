@@ -22,7 +22,7 @@ tab1, tab2 = st.tabs(["📈 Prediction","🤖 About the Model"])
 
 
 with tab1:
-    st.subheader(f'Market will be closed with a price: {predicted_values:4f}' )
+    st.markdown(f'Market will be closed with a price: $<span style="color: red;">{predicted_values:4f}</span>',unsafe_allow_html=True )
 
 with tab2:
     st.write("success")
