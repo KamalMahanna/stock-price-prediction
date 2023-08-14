@@ -1,7 +1,0 @@
-pandas
-numpy
-yfinance
-seaborn
-matplotlib
-tensorflow
-scikit-learn
