@@ -1,5 +1,6 @@
 yfinance
 streamlit
 joblib
-tensorflow
+tensorflow-cpu
 scikit-learn
+pandas_market_calendars
