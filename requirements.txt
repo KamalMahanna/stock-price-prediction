@@ -4,3 +4,4 @@ joblib
 tensorflow-cpu
 scikit-learn
 pandas_market_calendars
+plotly
